@@ -9,7 +9,7 @@
 	
 }
 .video-block,.video-block video,.video-block .video-overlay {
-	border-radius: 10px 10px 0 0;
+	border-radius: 10px;
 }
 .video-block video { border: 1px solid #dadcde; }
 .video-block .video-overlay {

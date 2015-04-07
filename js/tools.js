@@ -40,8 +40,12 @@
             }
         });
 
-        $('video').each(function (i, el) {
-            var player = new bVideoPlayer(el);
+        $('.video-link').click(function() {
+            $('.video-link').hide();
+            $('.videoWrapper').show();
+            $('video').each(function (i, el) {
+                var player = new bVideoPlayer(el);
+            });
         });
     });
 
