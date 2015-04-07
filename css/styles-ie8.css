@@ -1,0 +1,8 @@
+.distributor-line,
+.product-price em {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50)}
+
+.provider-text,
+.question-link a,
+.enter-drop,
+.products a,
+.product-photo img {behavior:url(./js/PIE.htc)}
