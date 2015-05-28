@@ -5,4 +5,5 @@
 .question-link a,
 .enter-drop,
 .products a,
-.product-photo img {behavior:url(./js/PIE.htc)}
+.product-photo img,
+.first-10 {behavior:url(./js/PIE.htc)}

@@ -46,7 +46,7 @@ span.enter-link.act {background:url(../images/enter_act.png) top left no-repeat}
 .descr div {font-size:14px; line-height:18px; color:#d9d9d9; margin:0 auto; width:747px; padding:27px 0 26px 0}
 .descr div strong {color:#fff}
 
-.products {width:900px; margin:0 auto; padding:70px 0}
+.products {width:900px; margin:0 auto; padding:70px 0 21px 0}
 .products:after {content:"."; display:block; clear:both; visibility:hidden; height:0}
 .products a {float:left; position:relative; margin:0 0 0 24px; background:#fff; text-decoration:none; width:284px; height:379px; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; -moz-box-shadow:0 0 1px rgba(128, 128, 128, .75); -webkit-box-shadow:0 0 1px rgba(128, 128, 128, .75); box-shadow:0 0 1px rgba(128, 128, 128, .75)}
 .products a:first-child {margin:0}
@@ -150,3 +150,9 @@ footer {height:158px; background:#fff}
 .f-right {float:right; width:230px}
 .f-right div {line-height:18px; padding:0 0 20px 20px}
 .f-right div a {color:#000}
+
+.first-10 {width:898px; height:250px; margin:0 auto 71px auto; position:relative; background:#fff url(../images/first-10.png) no-repeat 30px -6px; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; -moz-box-shadow:0 0 1px rgba(146, 146, 146, .75); -webkit-box-shadow:0 0 1px rgba(146, 146, 146, .75); box-shadow:0 0 1px rgba(146, 146, 146, .75)}
+.first-10-text-1 {position:absolute; left:36px; top:41px; font-size:18px; line-height:21px}
+.first-10-text-1 span {color:#e12d38}
+.first-10-text-2 {position:absolute; left:49px; top:116px; font-size:18px; line-height:21px; font-weight:bold; font-size:30px; line-height:36px; color:#fefefe; text-transform:uppercase}
+.first-10-free {position:absolute; right:31px; bottom:24px; width:82px; height:82px; background:url(../images/first-10-free.png); text-align:center; color:#fff; line-height:82px}
